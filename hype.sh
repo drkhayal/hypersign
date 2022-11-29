@@ -1,13 +1,7 @@
 #!/bin/bash
 echo "=================================================="
-echo " 
-                                                             
-ooo.              ooooo                 o                 o  
-8  `8.              8                   8                 8  
-8   `8 oPYo.        8   .oPYo. .oPYo.  o8P odYo. .oPYo.  o8P 
-8    8 8  `'        8   8oooo8 Yb..     8  8' `8 8oooo8   8  
-8   .P 8            8   8.       'Yb.   8  8   8 8.       8  
-8ooo'  8     88     8   `Yooo' `YooP'   8  8   8 `Yooo'   8     ";
+echo " DR. TESTNET 
+                                                               ";
 echo "=================================================="
 
 echo -e "\e[0m"
